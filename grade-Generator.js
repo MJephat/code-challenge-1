@@ -19,7 +19,7 @@ else if(marks>=40 && marks<=49){
 else if(marks>=0 && marks<=39){
     grade = "F";
 }
-//if the value entered is not in the range of (0-100) or it is not an integer. then the output will be invalid.
+//if the value entered is not in the range of (0-100) or it is not an integer. then the output will be invalid
 else{
     grade = "Invalid";
 }
