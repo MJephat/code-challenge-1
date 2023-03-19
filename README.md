@@ -21,5 +21,7 @@ The link to my project is:https://github.com/MJephat/code-challenge-1
 ## Authors and acknowledgment
 This project was developed by Jephat Mukundi Maina.
 
+## License
+
 
     
